@@ -3,8 +3,9 @@
 A React application that tracks your monthly expenses throughout the year. 
 </br>
 First app created through "The Complete React Course" on Udemy.
-![](https://github.com/karolinaCodes/Expenses-App/blob/5c945ce293b597b3973fc935dff50768b1851e83/public/screenshots/Screen%20Shot%202022-01-06%20at%205.42.23%20PM.png)
-![](https://github.com/karolinaCodes/Expenses-App/blob/5c945ce293b597b3973fc935dff50768b1851e83/public/screenshots/Screen%20Shot%202022-01-06%20at%205.42.30%20PM.png)
+![image](https://user-images.githubusercontent.com/82968631/148463073-749cb97b-f82e-4bef-ab9e-09c9f7c16e16.png)
+![image](https://user-images.githubusercontent.com/82968631/148463050-17f59b3f-ca5c-49a3-aa26-88538b5d38ad.png)
+
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
