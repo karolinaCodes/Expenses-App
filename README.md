@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+A React application that tracks your monthly expenses throughout the year. First app created through "The Complete React Course" on Udemy.
+![](Expenses-App/public/screenshots/Screen Shot 2022-01-06 at 5.42.23 PM.png)
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
