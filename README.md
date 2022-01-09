@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+
 A React application that tracks your monthly expenses throughout the year. 
 </br>
 First app created through "The Complete React Course" on Udemy.
