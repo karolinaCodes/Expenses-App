@@ -3,7 +3,7 @@
 
 A React application that tracks your monthly expenses throughout the year. 
 </br>
-First app created through "The Complete React Course" on Udemy.
+This was my first React application created through "The Complete React Course" on Udemy.
 
 ![image](https://user-images.githubusercontent.com/82968631/148463073-749cb97b-f82e-4bef-ab9e-09c9f7c16e16.png)
 ---
